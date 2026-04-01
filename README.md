@@ -27,6 +27,10 @@ chaque ligne de code est une note, chaque projet est une chanson qui reflète mo
 Je marche entre deux mondes :
 celui de la nature qui m’ancre, et celui de l’informatique qui m’élève.
 Ensemble, ils me donnent la force d’aller toujours plus loin.
+# Contact
+ Email : [Ton adresse professionnelle]
+ LinkedIn : [Ton lien LinkedIn]
+ GitHub : [Ton profil GitHub]
 
 
 
