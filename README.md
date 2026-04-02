@@ -5,7 +5,8 @@
 # Présentation
 Je suis Magdala Isidore, informaticienne de 24 ans, passionnée par la technologie, la nature et la musique.
 Mon parcours est guidé par la curiosité, la créativité et la volonté d’aller toujours plus loin dans ce que j’aime : l’informatique.
-# Fun facts
+---
+## Fun facts
  J’admire profondément la beauté de la nature, source d’équilibre et d’inspiration.
 Programmer est pour moi une forme d’art : chaque ligne de code est une note de musique.
 L’informatique est mon chemin vers l’avenir, une aventure sans fin.
