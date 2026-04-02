@@ -1,4 +1,7 @@
 # Portfolio de Magdala Isidore
+<p align="center">
+  <img src="Image WhatsApp du 1er avril 202...jpg" width="200">
+</p>
 # Présentation
 Je suis Magdala Isidore, informaticienne de 24 ans, passionnée par la technologie, la nature et la musique.
 Mon parcours est guidé par la curiosité, la créativité et la volonté d’aller toujours plus loin dans ce que j’aime : l’informatique.
