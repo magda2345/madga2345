@@ -1,6 +1,6 @@
 # Portfolio de Magdala Isidore
 
-![Photo de Magdala]([WhatsApp_Image_2026-04-01.jpe](https://github.com/magda2345/madga2345/blob/main/WhatsApp%20Image%202026-04-01%20at%201.41.19%20PM.jpeg)g)
+![Photo de Magdala](https://github.com/magda2345/madga2345/blob/main/WhatsApp%20Image%202026-04-01%20at%201.41.19%20PM.jpeg)g)
 
 ## Présentation
 Je suis Magdala Isidore, informaticienne de 24 ans, passionnée par la technologie, la nature et la musique.  
