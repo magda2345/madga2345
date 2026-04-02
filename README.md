@@ -1,6 +1,6 @@
 # Portfolio de Magdala Isidore
 <p align="center">
-  <img src="Image WhatsApp du 1er avril 202...jpg" width="200">
+  <img src="Image WhatsApp du 1er avril 2026 à 13h41min19s.jpeg" width="200">
 </p>
 # Présentation
 Je suis Magdala Isidore, informaticienne de 24 ans, passionnée par la technologie, la nature et la musique.
